@@ -1,8 +1,8 @@
 Hi 👋 My name is Anoop P John
 =============================
 
-Android/IOS Developer
----------------------
+Android/IOS Developer in Flutter
+--------------------------------
 
 I work as a front-end developer with UI/UX design skills. I'm currently working at Eloit as a front-end developer. I'm always trying to learn something new and currently improving my flutter, dart skills
 
